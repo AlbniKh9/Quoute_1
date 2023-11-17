@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body {
+            font-family: 'Helvetica', sans-serif;
+            background-color: #0a0909;
+            color: #020101;
+            text-align: center;
+            margin: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #e8491d;
+        }
+        .quote {
+            font-size: 28px;
+            font-style: italic;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="quote">
+            <h4>Sometimes, to love someone you gotta be a stranger.</h4>
+            
+            <h1>December 2023 END.</h1>
+        </div>
+    </div>
+</body>
+</html>
